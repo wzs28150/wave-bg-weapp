@@ -5,7 +5,9 @@
 > 一番百度之后并没有找到满意的效果,
 > 所以自己撸了一个感觉还不错共享给大家.
 
-### 效果演示片段
+### 效果
+![avatar](https://raw.githubusercontent.com/wzs28150/wave-bg-weapp/7f661120be43021a6af8852f17aa84246a5e647c/demo.gif)
+### 演示片段
 > https://developers.weixin.qq.com/s/g9tWlAmG7st8
 ### 依赖
 > 组件依赖simplex-noise Simplex噪声算法
