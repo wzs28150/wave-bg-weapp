@@ -1,6 +1,6 @@
 {
   "name": "wave-bg-weapp",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "微信小程序canvas 波浪背景组件",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,5 @@
   "homepage": "https://github.com/wzs28150/wave-bg-weapp#readme",
   "author": "wzs",
   "license": "ISC",
-  "dependencies": {
-    "open-simplex-noise": "^2.5.0"
-  }
+  "dependencies": {}
 }
